@@ -1,0 +1,14 @@
+../Core/Src/myrfid.c:20:6:SPI1_WriteReg	24	static
+../Core/Src/myrfid.c:33:9:SPI1_ReadReg	32	static
+../Core/Src/myrfid.c:49:6:MFRC522_Init	16	static
+../Core/Src/myrfid.c:63:9:MFRC522_Check	24	static
+../Core/Src/myrfid.c:71:6:MFRC522_WriteRegister	16	static
+../Core/Src/myrfid.c:76:9:MFRC522_ReadRegister	24	static
+../Core/Src/myrfid.c:84:6:MFRC522_SetBitMask	16	static
+../Core/Src/myrfid.c:88:6:MFRC522_ClearBitMask	16	static
+../Core/Src/myrfid.c:92:6:MFRC522_AntennaOn	16	static
+../Core/Src/myrfid.c:99:6:MFRC522_AntennaOff	8	static
+../Core/Src/myrfid.c:103:6:MFRC522_Reset	8	static
+../Core/Src/myrfid.c:107:9:MFRC522_Request	32	static
+../Core/Src/myrfid.c:119:9:MFRC522_ToCard	40	static
+../Core/Src/myrfid.c:186:9:MFRC522_Anticoll	32	static

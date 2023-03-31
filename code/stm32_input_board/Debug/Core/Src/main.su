@@ -1,0 +1,13 @@
+../Core/Src/main.c:81:6:enter_wait_state	8	static
+../Core/Src/main.c:87:6:exit_wait_state	8	static
+../Core/Src/main.c:93:6:send_byte_to_output_board	16	static
+../Core/Src/main.c:97:6:HAL_GPIO_EXTI_Callback	24	static
+../Core/Src/main.c:142:6:HAL_UART_RxCpltCallback	16	static
+../Core/Src/main.c:154:5:main	32	static
+../Core/Src/main.c:244:6:SystemClock_Config	88	static
+../Core/Src/main.c:291:13:MX_SPI2_Init	8	static
+../Core/Src/main.c:329:13:MX_TIM2_Init	32	static
+../Core/Src/main.c:374:13:MX_USART1_UART_Init	8	static
+../Core/Src/main.c:407:13:MX_USART2_UART_Init	8	static
+../Core/Src/main.c:440:13:MX_GPIO_Init	48	static
+../Core/Src/main.c:522:6:Error_Handler	4	static,ignoring_inline_asm

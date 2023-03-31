@@ -1,0 +1,4 @@
+../Core/Src/keypad.c:24:6:resetRowPins	16	static
+../Core/Src/keypad.c:28:5:scanRows	24	static
+../Core/Src/keypad.c:42:9:getKey	16	static
+../Core/Src/keypad.c:46:9:findKey	24	static

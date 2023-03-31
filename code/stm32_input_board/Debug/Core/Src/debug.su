@@ -1,0 +1,4 @@
+../Core/Src/debug.c:12:6:print	24	static
+../Core/Src/debug.c:17:6:print_byte_to_hex	24	static
+../Core/Src/debug.c:23:6:print_lf	8	static
+../Core/Src/debug.c:27:6:print_error	8	static
