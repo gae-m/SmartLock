@@ -11,4 +11,4 @@ Embedded project on STM32 boards for the academic course of Computer System Desi
 
 Contributors:
 - [G.Martedì](https://github.com/gae-m)
-- [B.Salzillo](https://github.com/biagio97)
+- [B.Salzillo](https://github.com/bise97)
